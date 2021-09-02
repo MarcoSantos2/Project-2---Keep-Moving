@@ -3,7 +3,6 @@
 #wrong, he gets another clue, and his score gets reduced. The clue can be multiples, divisible,
 #greater or smaller, or a combination of all
 
-
 import random
 
 def guess_random_number(x):
